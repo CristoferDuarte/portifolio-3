@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    padding-top: 200px;
+    margin: 0;
+}
+.Menu{
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+#Welcome{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(#6062eb 0%,#5d2175 100%);
+    display: table;
+    width: 100%;
+    height: 90%;
+    justify-content: space-between; 
+}
+.head{
+    background-color: cadetblue;
+    
+    }
